@@ -81,10 +81,3 @@ celery -A bankingsystem worker -l info
 
 celery -A bankingsystem beat -l info
 ```
-
-## Images:
-![alt text](https://i.imgur.com/QZwaEHX.png)
-#
-![alt text](https://i.imgur.com/HTcqWcw.png)
-#
-![alt text](https://i.imgur.com/HHsmJVD.png)
