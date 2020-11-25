@@ -29,14 +29,7 @@ Be sure you have the following installed on your development machine:
 + Pillow==4.2.1
 + redis==2.10.6
 
-## Install Redis Server
 
-[Redis Quick Start](https://redis.io/topics/quickstart)
-
-Run Redis server
-```bash
-redis-server
-```
 
 ## Project Installation
 
